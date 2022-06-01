@@ -4,8 +4,8 @@
 
 ### Work Experience: Сustomer service specialist
 
-#### Special skills: Reading and translating ability English, Computer literacy (Outlook, Jira, Confluence)
+#### Special skills: Computer literacy (Outlook, Jira, Confluence)
 
-##### I haven't programmed before
+##### I haven't programmed before, Reading and translating ability English
 
 ###### Education: Incomplete Higher Education
